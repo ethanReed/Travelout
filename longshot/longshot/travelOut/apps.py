@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class TraveloutConfig(AppConfig):
+class travelOutConfig(AppConfig):
     name = 'travelOut'
